@@ -1,4 +1,4 @@
-# Text Classification
+# Company Classification
 
 Classifying companies to sectors by description.
 
